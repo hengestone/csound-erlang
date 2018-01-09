@@ -7,7 +7,7 @@ Setup
 -----
 
     Build and install csound-6.10
-    $ rebar3 compile
+    $ rebar3 get-deps
 
 Build
 -----
