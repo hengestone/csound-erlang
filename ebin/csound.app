@@ -1,0 +1,11 @@
+{application,csound,
+             [{description,"Csound-erlang"},
+              {vsn,"0.1.0"},
+              {registered,[]},
+              {mod,{csound_app,[]}},
+              {applications,[kernel,stdlib]},
+              {env,[]},
+              {modules,[csound,csound_app,csound_sup]},
+              {maintainers,[]},
+              {licenses,["MPV v2"]},
+              {links,[]}]}.
