@@ -1,11 +1,11 @@
 <CsoundSynthesizer>
 
 <CsInstruments>
-     instr 1
-kenv    linseg    10000, p3, 0
+instr 1
+kenv  linseg    10000, p3, 0
 ar    oscil    kenv, p4, 1
-     out    ar
-     endin
+      out    ar
+      endin
 </CsInstruments>
 
 <CsScore>
